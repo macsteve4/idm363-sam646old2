@@ -1,0 +1,13 @@
+.bottom {
+    text-align: center;
+    
+}
+
+.footlink {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px;
+    height: 56px;
+    width: 56px;
+    }
